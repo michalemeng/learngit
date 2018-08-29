@@ -3,5 +3,4 @@ Git is free software.
 Git is very good.
 Hello Git!
 Git tracks changes double.
-Creating a new branch quick.
-Creat a new branch is qucik and simple.
+Creating a new branch quick and simple.
